@@ -46,7 +46,8 @@ a {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  margin-top: 15px;
+  margin: 20px;
+  box-shadow: 2px 2px 8px #E0A94C, 2px 2px 8px #E0A94C, 2px 2px 12px rgba(255,255,255,0.1), 2px 2px 8px rgba(0,0,0,0.15); 
 }
 
 .card h4 {
@@ -65,8 +66,9 @@ a {
 
 .btn {
   background-color: #42445A;
-  padding: 10px 105px;
-  font-size: 14px;
+  padding: 10px 100px;
+  font-size: 13px;
+  font-weight: 400;
   color: #fff;
   border-radius: 10px;
 }
